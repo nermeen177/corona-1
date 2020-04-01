@@ -72,6 +72,7 @@ body {
 .big
 {
   width: 100%;
+ display:inline-block
 }
 .container, .container-md, .container-sm {
     max-width: 720px;
